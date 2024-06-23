@@ -1,7 +1,6 @@
-import urllib.request
+import urllib.request # 导入库
 import re
 import os
-
 
 mianurl = 'http://www.6zipai.com/'
 targetPath = 'D:/spider/51zipai/picture1/'
